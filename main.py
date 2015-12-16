@@ -5,8 +5,7 @@ import numpy as np
 from mayavi import mlab
 
 import os
-base_path = os.path.expanduser(os.environ['CGprak'])
-filename = os.path.join(base_path,'tosca_hires','cat0.mat')
+filename = os.path.join(os.environ['CGprak'],'tosca_hires','cat0.mat')
     
 def load_mesh(filename):
 
