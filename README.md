@@ -4,7 +4,7 @@ April 2016 - September 2016
 
 | DATASET_IDX |                      Data Types                      | Space Requirements (GB) |
 |:-----------:|:----------------------------------------------------:|------------------------:|
-|           1 | DNA Methylation                                      |           148           |
+|           1 | DNA<br>Methylation                                   |           148           |
 |           2 | Gene Expression                                      |            9            |
 |           3 | miRNA Expression                                     |           0.24          |
 |           4 | Gene Expression + miRNA Expression                   |            10           |
